@@ -7,10 +7,11 @@ University of Stuttgart, Germany
 
 ### Research Interests
 
-* Robot control & manipulation
-* Adaptive and learning-based control
-* Neural network-based control
-* Distributed optimization
+* Robotic Control Systems
+* Nonlinear Adaptive Control
+* Learning-based Control
+* Distributed Optimization
+* Intelligent Systems
 
 ---
 
