@@ -1,16 +1,29 @@
-## Hi there 👋
+## Yiheng
 
-<!--
-**hengsleep/hengsleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. Student in Electrical Engineering**  
+University of Stuttgart, Germany
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Interests
+- Robotic control
+- Adaptive control
+- Distributed optimization
+
+---
+
+### Featured Projects
+
+**[Franka Gazebo RBF Adaptive Control](https://github.com/hengsleep/Franka_Gazebo_RBF_adaptive_control_Prj)**  
+High-precision trajectory tracking for a 7-DOF Franka FR3 manipulator using online RBF neural-network adaptive compensation, fully validated in Gazebo + ROS 2.
+
+**[RBF Compensation Robot Control](https://github.com/hengsleep/RBF_compensation_Robot_control_Prj)**  
+Adaptive RBF neural network control framework for uncertain multi-joint robotic manipulators, featuring Lyapunov stability analysis and σ-modification.
+
+**[DARA Lipschitz Continuous](https://github.com/hengsleep/DARA_Lipschitz_continuous_Prj)**  
+Distributed Adaptive Resource Allocation algorithm for multi-agent systems over directed graphs, requiring only Lipschitz continuous cost functions.
+
+---
+
+### Contact
+📧 xheng040601@gmail.com
