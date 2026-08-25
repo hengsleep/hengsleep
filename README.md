@@ -1,6 +1,6 @@
 # Yiheng Lyu
 
-**M.Sc. Student in Electrical Engineering** Starting in Oct 2026\
+**M.Sc. Student in Electrical Engineering** - Starting in Oct 2026\
 University of Stuttgart, Germany
 
 My Website: [https://hengsleep.github.io/](https://hengsleep.github.io/)
