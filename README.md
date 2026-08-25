@@ -4,6 +4,7 @@
 University of Stuttgart, Germany
 
 My Website: [https://hengsleep.github.io/](https://hengsleep.github.io/)
+My Resume CV: [Resume.pdf](https://hengsleep.github.io/assets/Resume.pdf)
 
 ---
 
