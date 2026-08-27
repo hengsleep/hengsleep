@@ -34,4 +34,3 @@ Distributed Adaptive Resource Allocation for multi-agent systems over directed g
 ### Contact
 
 📧 [xheng040601@gmail.com](mailto:xheng040601@gmail.com)
-💼 [LinkedIn Yiheng Lyu](https://www.linkedin.com/in/xheng1934/)
