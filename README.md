@@ -33,5 +33,5 @@ Distributed Adaptive Resource Allocation for multi-agent systems over directed g
 
 ### Contact
 
-📧 [xheng040601@outlook.com](mailto:xheng040601@outlook.com), [yiheng.lyu.de@gmail.com](mailto:yiheng.lyu.de@gmail.com)
+📧 [xheng040601@outlook.com](mailto:xheng040601@outlook.com), [yiheng.lyu.de@gmail.com](mailto:yiheng.lyu.de@gmail.com)\
 📧 Student mail: [st205367@stud.uni-stuttgart.de](mailto:st205367@stud.uni-stuttgart.de)
