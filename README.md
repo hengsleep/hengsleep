@@ -20,6 +20,9 @@ My Resume CV: [Resume.pdf](https://hengsleep.github.io/assets/Resume.pdf)
 
 ### Featured Projects
 
+**Dual-Arm BiLSTM-Based Nonlinear Cable Control — ISW, Universität Stuttgart**\
+Extension of a single-arm cable manipulation framework to dual-arm MuJoCo simulation, integrating CEM-based and MPPI-based MPC control with a pretrained biLSTM dynamics model for nonlinear DLOs.
+
 **[Franka Gazebo RBF Adaptive Control](https://github.com/hengsleep/Franka_Gazebo_RBF_adaptive_control_Prj)**\
 CTC control with online RBF neural-network adaptive compensation for robust trajectory tracking of a 7-DOF Franka FR3 manipulator under model uncertainty, implemented and evaluated in Gazebo + ROS 2.
 
