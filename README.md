@@ -11,10 +11,9 @@ My Resume CV: [Resume.pdf](https://hengsleep.github.io/assets/Resume.pdf)
 ### Research Interests
 
 * Robotic Control Systems
-* Nonlinear Adaptive Control
 * Learning-based Control
+* Nonlinear Adaptive Control
 * Distributed Optimization
-* Intelligent Systems
 
 ---
 
