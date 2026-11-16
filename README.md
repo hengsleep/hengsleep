@@ -1,4 +1,4 @@
-# Yiheng Lyu
+# Yiheng (Ean) Lü
 
 **M.Sc. in Electrical Engineering** - Starting in Oct 2026\
 Universität Stuttgart, Germany
